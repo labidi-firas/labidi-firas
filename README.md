@@ -34,14 +34,14 @@ const firas = {
 • 💡 Passionate about clean code and scalable architectures  
 • 🎯 2025 Goals: Contribute to open source & build innovative projects  
 • 📫 Reach me: **firaslabidi17@gmail.com**  
-• 🌐 Portfolio: **Coming Soon!**
+• 🌐 Portfolio: **https://labidi-firas.github.io/firas-portfolio/**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/firas-labidi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://www.linkedin.com/in/firas-labidi](https://www.linkedin.com/in/labidi-firas-92a3b6258/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/firas.labidi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/firas.labidi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:firaslabidi17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
